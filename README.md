@@ -4,8 +4,7 @@
 
 Roop
 
-[![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Geeeeeker/roop_colab/blob/main/“roop_v1_3_2_ipynb”.ipynb)
-
+[![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Geeeeeker/roop_colab/blob/main/roop_v1.3.2.ipynb)
 
 FaceFusion
 
